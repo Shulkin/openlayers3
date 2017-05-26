@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shulkin/openlayers3/issues"
   },
-  "homepage": "https://github.com/Shulkin/openlayers3#readme"
+  "homepage": "https://github.com/Shulkin/openlayers3#readme",
+  "dependencies": {
+    "openlayers": "^4.1.1"
+  }
 }
