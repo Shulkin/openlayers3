@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node node_modules/openlayers/tasks/build.js config/ol-custom.json build/ol-custom.js",
+    "build": "node node_modules/openlayers/tasks/build.js config/ol-custom.json build/ol-custom.js"
   },
   "repository": {
     "type": "git",
